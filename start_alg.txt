@@ -1,0 +1,6 @@
+npx license mit > LICENSE
+npx gitignore node
+npx covgen {{ EMAIL }}
+npm init -y
+npm i ...
+npm run dev
